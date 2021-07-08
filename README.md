@@ -2,7 +2,7 @@
 - 🌱 Just finish a web development bootcamp
 - 🌱 Complete a personal blog using Nodejs & EJS 
 - 🌱 Complete two MERN-stack web app with CRUD operation
-- 💞️ I’m looking to an web developer job
+- 💞️ I’m looking to web developer job
 - 📫 Reach me out here: linglynn1221@gmail.com
 
 <!---
