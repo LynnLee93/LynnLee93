@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Lynn Lee
-- 🌱 Just finish a web development bootcamp
-- 🌱 Complete a personal blog using Nodejs & EJS 
-- 🌱 Complete two MERN-stack web app with CRUD operation
+- 🌱 A softwaare engineer
 - 💞️ I’m looking to web developer job
 - 📫 Reach me out here: linglynn1221@gmail.com
 
