@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lynn Lee
-- 🌱 A softwaare engineer
-- 💞️ I’m looking to web developer job
+- 🌱 A Software Engineer
+- 💞️ I'm looking for a new opportunity
 - 📫 Reach me out here: linglynn1221@gmail.com
 
 <!---
